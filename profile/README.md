@@ -14,12 +14,22 @@ a shared language for organisation patterned on syntrophy: first principles,
 the ontology that grows from them, and the law governing how any of it may be
 spoken about. A language, not a platform.
 
+**[Syntrophic AI](https://syntrophic.ai)** — AI services built so that the
+revenue they earn is committed to community infrastructure rather than
+shareholder returns. It is in **closed beta**, running with a small number of
+selected community and regenerative projects.
+
 ## Status
 
-Prose, not software. Nothing federates; no receipt between real organisations
-has ever been issued; nothing has been measured, because nothing has run. The
-repository's README states the limitations in full, and its `decisions/`
-record every ruling — including why its history is a single commit.
+*mycelium* is prose, not software. Nothing federates; no receipt between real
+organisations has ever been issued; nothing has been measured, because nothing
+has run. The repository's README states the limitations in full, and its
+`decisions/` record every ruling — including why its history is a single
+commit.
+
+*Syntrophic AI* is the exception, and only just: a closed beta with selected
+projects. There is nothing to buy, no published pricing, and no claim that the
+funding model has yet moved money. What it has is users.
 
 ## A note on the words
 
